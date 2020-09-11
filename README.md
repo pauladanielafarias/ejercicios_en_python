@@ -11,4 +11,4 @@
 
 ---
 
-_La lógica que se encuentra en cada archivo fue realizada por mí, Paula Daniela Farias, en el marco de los ejercicios planteados por el curso previmente mencionado._
+_La lógica que se encuentra en cada archivo fue realizada por mí, [Paula Farias](linkedin.com/in/paulafarias), en el marco de los ejercicios planteados por el curso previmente mencionado._
