@@ -1,6 +1,6 @@
 # Python Exercises
 
-#### Algunos ejerciciosque realicé a partir del curso de <a href='https://github.com/python-unsam/UNSAM_2020c2_Python' target='blank'>Programación en Python</a> brindado por la UNSAM.
+#### Algunos ejercicios que realicé a partir del curso de <a href='https://github.com/python-unsam/UNSAM_2020c2_Python' target='blank'>Programación en Python</a> brindado por la UNSAM.
 ---
 #### [Primera Parte](primera_parte): ejercicios iniciales
 
