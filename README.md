@@ -1,6 +1,6 @@
 # Python Exercises
 
-#### Algunos ejercicios[^1] que realicé a partir del curso de <a href='https://github.com/python-unsam/UNSAM_2020c2_Python' target='blank'>Programación en Python</a> brindado por la UNSAM.
+#### Algunos ejerciciosque realicé a partir del curso de <a href='https://github.com/python-unsam/UNSAM_2020c2_Python' target='blank'>Programación en Python</a> brindado por la UNSAM.
 ---
 #### [Primera Parte](primera_parte): ejercicios iniciales
 
@@ -9,4 +9,6 @@
 3. [hipoteca.py](primera_parte/hipoteca.py): cálculo de una hipoteca.
 4. [inclusive.py](primera_parte/inclusive.py): dada una palabra, "transforma" las palabras masculinas para que se vean como lenguaje inclusivo, es decir, transforma las _o_ en _e_.
 
-[^1]: La lógica que se encuentra en cada archivo fue realizada por mí, Paula Daniela Farias, en el marco de los ejercicios planteados por el curso previmente mencionado.
+---
+
+_La lógica que se encuentra en cada archivo fue realizada por mí, Paula Daniela Farias, en el marco de los ejercicios planteados por el curso previmente mencionado._
